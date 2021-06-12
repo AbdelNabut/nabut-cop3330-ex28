@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class AppTest 
 {
-    
+
     @org.junit.jupiter.api.Test
     void findSum() {
         int sum = 0;
